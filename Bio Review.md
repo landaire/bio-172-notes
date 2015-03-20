@@ -91,6 +91,9 @@ Expected numbers:
 - Seed plant lifecycle: sporophyte leads to meiosis, megametophyte produces egs while the microgametophyte proces sperm, fertilization occurs, go back to sporphyte
 - Seed/sporophyte are diploid (2n), sperm/eggs/megaspores/microspores are haploid (1n).
 
+**BEGIN CHEATSHEET**
+-----------------------------
+
 Plant structures:
 
 - Gametangia
@@ -110,9 +113,32 @@ Fungi structures:
 - Hyphae or Mycelia
 - Sporocarp
 - Mycorrhizal fungi
+- Flagellated zoospores
+
+Asexual reproduction:
+
+- Germination, Mycelium, Spore-producing structures, spores, repeat
+
+Sexual reproduction:
+
+Heterokaryotic stage, Karyogamy, Zygote, Meiosis, Spore-producing structures, spores, germination
+
+Processes:
+
+- Haploid (n) will be where stuff splits off in two
+- Diploid (2n) will be where there's one line
+- Meiosis is where the egg thing splits apart looking like it's about to release the kraken, fertilization is where the egg is in the thing and changes colors
+
+Seed plants:
+
+- Microspores
+	- Pollen grain = microgametophyte + pollen wall
+- Megaspores
+	- Ovule = megasporangia + megaspore + integument
  
 ### Animals
 
+- Metazoa (all animals)
 - Porifera (sponges):
 	- Lack of specialized tissues
 	- Asymmetric
